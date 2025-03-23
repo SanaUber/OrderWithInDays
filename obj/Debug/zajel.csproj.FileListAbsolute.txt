@@ -1,0 +1,7 @@
+C:\Users\ACER\source\repos\zajel\bin\Debug\zajel.exe.config
+C:\Users\ACER\source\repos\zajel\bin\Debug\zajel.exe
+C:\Users\ACER\source\repos\zajel\bin\Debug\zajel.pdb
+C:\Users\ACER\source\repos\zajel\obj\Debug\zajel.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\zajel\obj\Debug\zajel.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\zajel\obj\Debug\zajel.exe
+C:\Users\ACER\source\repos\zajel\obj\Debug\zajel.pdb
